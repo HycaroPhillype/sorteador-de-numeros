@@ -1,6 +1,6 @@
 # Sorteando numeros .
 
-> Esse jogo sorteia numeros de acordo a quantidade pedida pelo usuario!
+> Esse jogo sorteia números de acordo a quantidade pedida pelo usuario!
 
 ## Stack utilizada ⚙
 
