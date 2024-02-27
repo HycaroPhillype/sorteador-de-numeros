@@ -1,6 +1,6 @@
 # Sorteando numeros .
 
-> Esse jogo foi criado com HTML e JavaScript.
+> Esse jogo sorteia numeros de acordo a quantidade pedida pelo usuario!
 
 ## Stack utilizada ⚙
 
